@@ -13,4 +13,4 @@ This project is a Power BI dashboard analyzing ticket system data.
 - Data visualization
 - Data cleaning (Power Query)
 
-## Dashboard Preview(https://github.com/Adetola1505/powerbi-dashboard/blob/main/First%20data%20SET.pdf?raw=true)
+## Dashboard Preview- https://raw.githubusercontent.com/Adetola1505/powerbi-dashboard/main/First%20data%20SET.pdf
